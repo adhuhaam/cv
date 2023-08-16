@@ -1,5 +1,5 @@
 ### My CV / Resume 
-Demo: [DEMO] (https://adhuhaam.github.io/cv)
+[DEMO] (https://adhuhaam.github.io/cv)
  
 
 
