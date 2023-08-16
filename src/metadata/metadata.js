@@ -2,7 +2,7 @@ module.exports = {
   name: 'AdhuHaam',
   title: 'Developer',
   facts: {
-    'Residence': '<a href="https://www.google.com/maps/place/London,+UK/@51.5285582,-0.2416814,11z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5072178!4d-0.1275862"><i class="fa fa-home fact-icon"></i>London</a>',
+    'Residence': '<a href="https://www.google.com/maps/place/Maldives/@3.0988229,67.9411226,6z/data=!4m15!1m8!3m7!1s0x24b599bfaafb7bbd:0x414509e181956289!2sMaldives!3b1!8m2!3d3.202778!4d73.22068!16zL20vMDR0eTg!3m5!1s0x24b599bfaafb7bbd:0x414509e181956289!8m2!3d3.202778!4d73.22068!16zL20vMDR0eTg?entry=ttu"><i class="fa fa-home fact-icon"></i>London</a>',
     'Wiki': `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
                   <i class="fa-brands fa-wikipedia-w fact-icon"></i>William_Shakespeare
                 </a>`,
