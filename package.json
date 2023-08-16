@@ -7,7 +7,7 @@
     "prestart": "npm run build",
     "start": "npm run watch & live-server docs",
     "predeploy": "npm run build",
-    "deploy": "docs -d root"
+    "deploy": "docs -d dist"
   },
   "repository": {
     "type": "git",
