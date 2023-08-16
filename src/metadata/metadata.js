@@ -6,22 +6,22 @@ module.exports = {
     'Wiki': `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
                   <i class="fa-brands fa-wikipedia-w fact-icon"></i>William_Shakespeare
                 </a>`,
-    'Twitter': `<a href="https://twitter.com/shakespeare"><i class="fa-brands fa-twitter fact-icon"></i>Shakespeare</a>`,
-    'Email': '<a href="mailto:wil64@yahoo.com"><i class="fa fa-envelope fact-icon"></i>wil64@yahoo.com</a>'
+    'Twitter': `<a href="https://twitter.com/adhuhaam"><i class="fa-brands fa-twitter fact-icon"></i>@AdhuHaam</a>`,
+    'Email': '<a href="mailto:work.adhuham@gmail.com"><i class="fa fa-envelope fact-icon"></i>work.adhuham@gmail.com</a>'
   },
   skills: [
-    ['Comedy', 100],
-    ['Love', 100],
-    ['Theater', 100],
-    ['Tragedy', 100],
-    ['Poetry', 100],
-    ['Erotic', 75],
-    ['Sonnets', 100],
-    ['Plays', 100],
-    ['Writing', 100],
-    ['Directing', 75],
-    ['Literature', 100],
-    ['Influence', 100],
+    ['php', 100],
+    ['Html', 100],
+    ['js', 98],
+    ['python', 40],
+    ['ruby', 20],
+    ['css', 100],
+    ['typescript', 80],
+    ['flutter', 76],
+    ['C++', 10],
+    ['rest', 75],
+    ['Swift', 70],
+    ['Objective-C', 45],
   ],
   positions: [
     {
