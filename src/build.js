@@ -9,7 +9,7 @@ const username = require('git-username');
 const buildPdf = require('./utils/pdf.js');
 
 const srcDir = __dirname;
-const outputDir = __dirname + '/../dist';
+const outputDir = __dirname + '/../docs';
 
 // Clear dist dir
 fs.emptyDirSync(outputDir);
