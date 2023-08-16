@@ -25,7 +25,7 @@ module.exports = {
   ],
   positions: [
     {
-      title: 'admin',
+      title: 'Admin',
       period: 'Nov 2019 to jan 2021',
       skills: ['codeing', 'photography', 'hardware'],
       contents: `
