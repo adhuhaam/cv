@@ -6,7 +6,7 @@ module.exports = {
     'Wiki': `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
                   <i class="fa-brands fa-wikipedia-w fact-icon"></i>William_Shakespeare
                 </a>`,
-    'Twitter': `<a href="https://twitter.com/adhuhaam"><i class="fa-brands fa-twitter fact-icon"></i>@AdhuHaam</a>`,
+    'Twitter': `<a href="https://twitter.com/adhuhaam"><i class="fa-brands fa-twitter fact-icon"></i>@adhuhaam</a>`,
     'Email': '<a href="mailto:work.adhuham@gmail.com"><i class="fa fa-envelope fact-icon"></i>work.adhuham@gmail.com</a>'
   },
   skills: [
